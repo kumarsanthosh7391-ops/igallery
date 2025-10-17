@@ -141,6 +141,10 @@ document.addEventListener('DOMContentLoaded', () => {
 ```
 
 OUTPUT:
+![alt text](<Screenshot (52).png>) 
+![alt text](<Screenshot (51).png>)
+![alt text](<Screenshot (50).png>) 
+![alt text](<Screenshot (49).png>)
 
 RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
